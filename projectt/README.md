@@ -8,3 +8,6 @@ Steps to capture in real-time:
 2.Export the captured packets to wiresharkcapture.csv in the projectt/uploads/ folder (or your designated folder).
 3.The application reads this CSV file for real-time threat detection using the ML model.
 4.As new packets are captured and saved, the system can continuously process the updated CSV for predictions.
+
+A project report is just a request away! If you want more juicy details, 
+don't hesitate to hit me up on WhatsApp at +91 6362128332.
